@@ -14,7 +14,7 @@
     0,
     0,
     0.02
-  ); /* Correção do erro de digitação */
+  ); 
   --highlight-color: rgba(255, 255, 255, 0.2);
   --switch-bg-url: url(./assets/MoonStars.svg);
 }
@@ -29,7 +29,7 @@
     0,
     0,
     0.02
-  ); /* Correção do erro de digitação */
+  ); 
   --highlight-color: rgba(0, 0, 0, 0.1);
   --switch-bg-url: url(./assets/Sun.svg);
 }
@@ -56,7 +56,7 @@ body * {
 
 #profile img {
   display: block;
-  width: 112px; /* Corrigido de 'widht' para 'width' */
+  width: 112px; 
   margin: auto;
 }
 
